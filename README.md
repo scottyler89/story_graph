@@ -1,2 +1,11 @@
-# story_graph
-A graph network representation of stories
+
+# Story Graph
+
+This project provides a set of classes for creating and manipulating narrative graphs.
+
+## Installation
+
+## Usage
+
+## Contributing
+

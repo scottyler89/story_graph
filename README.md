@@ -16,7 +16,7 @@ pip install -e .
 
 ## Usage
 
-Here's an example story_graph of the first 15 minutes of UP 🥹🥹
+Here's an example story_graph of the first 15 minutes of UP :revolving_hearts:
 
 ```python
 from narrative_graph import Node, Edge, Graph, Narrative
